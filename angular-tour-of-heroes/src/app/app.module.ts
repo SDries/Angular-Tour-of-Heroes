@@ -28,6 +28,7 @@ import { HeroSearchComponent } from './hero-search/hero-search.component';
     HeroesComponent,
     HeroDetailComponent,
     MessagesComponent,
+    HeroSearchComponent,
   ],
   bootstrap: [AppComponent]
 })
